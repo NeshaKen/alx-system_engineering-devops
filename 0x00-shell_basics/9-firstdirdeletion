@@ -1,0 +1,2 @@
+#!/bin/bash
+rm file_1 file 2
