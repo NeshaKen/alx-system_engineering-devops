@@ -1,1 +1,1 @@
-listing long format
+listing files digits only
